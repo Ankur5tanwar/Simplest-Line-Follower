@@ -1,6 +1,8 @@
 #Line Following Robot (LFR)
 
-Created and is explicitly for the students of Chaudhary Brahm Prakash Government Engineering College, Jaffarpur
+This project is for and by the students of Chaudhary Brahm Prakash Government Engineering College, Jaffarpur
+
+
 
 Rules For Creating Branch:
 
