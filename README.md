@@ -5,7 +5,6 @@ This project is for and by the students of Chaudhary Brahm Prakash Government En
 
 
 Rules For Creating Branch:
-
 1)Branch can be created from the project of previous year batch students only.
 	For Ex. 1st year students can create branch only from 2nd year students and not from 3rd or 4th year students.
 2)Students working in teams have to create a branch from their team leader(if all team members are from same batch).
@@ -13,6 +12,8 @@ Rules For Creating Branch:
 4)When creating a branch, keep the names of all the seniors in README.md file and add your name in format prescribed in Rule 3 after pressing 'Enter' key twice.
 5)You have to add your name as well as your team members name(if working in team) in format given below:
 	FUll Name	Batch		Roll. No.
+
+
 
 
 
